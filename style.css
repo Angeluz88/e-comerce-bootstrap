@@ -1,0 +1,61 @@
+@font-face {
+    font-family:principal ;
+    src: url(./font/FlowerDisplayDemoRegular-8MnRB.ttf);
+}
+@font-face {
+    font-family: secundaria;
+    src: url(./font/DelicetrialRegular-8MLmA.ttf);
+}
+
+.navbar-brand{
+    font-family: principal;
+    font-size: 12px;
+    }
+
+.nav-link{
+      font-family: secundaria;
+      font-size: 24px;
+    }
+
+.dropdown-item{
+      font-family: secundaria;
+      font-size: 24px;
+    }
+
+h1{
+      font-family: principal;
+      font-size: 48px;
+    }
+h5{
+
+    font-family: principal;
+    font-size: 18px;
+}
+p{
+      font-family: secundaria;
+      font-size: 24px;
+    }
+
+h2{
+        font-family: principal;
+        font-size: 36px;
+    }
+    table{
+        font-family: secundaria;
+    font-size: 24px;
+    }
+
+.btn{
+    font-family: secundaria;
+    font-size: 24px;
+    }
+    label{
+        font-family: secundaria;
+    font-size: 24px;
+
+    }
+    small{
+        font-family: secundaria;
+    font-size: 24px;
+    }
+    
